@@ -7898,7 +7898,7 @@ PrefabInstance:
     - target: {fileID: -4216859302048453862, guid: ebfc937928eea8542b0119cb988c7cba,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 118.22
+      value: 118.4
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: ebfc937928eea8542b0119cb988c7cba,
         type: 3}
@@ -19633,11 +19633,6 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
-    - target: {fileID: 6428696450468553485, guid: 9df8cfc4ac7305e47a642d1470ddef00,
-        type: 3}
-      propertyPath: m_IsActive
-      value: 0
-      objectReference: {fileID: 0}
     - target: {fileID: 69579441299486083, guid: 9df8cfc4ac7305e47a642d1470ddef00,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -19743,10 +19738,10 @@ PrefabInstance:
       propertyPath: m_Pivot.y
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 69579441299486081, guid: 9df8cfc4ac7305e47a642d1470ddef00,
+    - target: {fileID: 6428696450468553485, guid: 9df8cfc4ac7305e47a642d1470ddef00,
         type: 3}
-      propertyPath: m_UiScaleMode
-      value: 1
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 1576423506279988649, guid: 9df8cfc4ac7305e47a642d1470ddef00,
         type: 3}
@@ -19768,20 +19763,25 @@ PrefabInstance:
       propertyPath: pauseFirstButton
       value: 
       objectReference: {fileID: 346381389}
-    - target: {fileID: 8650253677608789274, guid: 9df8cfc4ac7305e47a642d1470ddef00,
+    - target: {fileID: 7093687308067081280, guid: 9df8cfc4ac7305e47a642d1470ddef00,
         type: 3}
-      propertyPath: m_IsActive
-      value: 0
+      propertyPath: m_RootOrder
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 69579441299486081, guid: 9df8cfc4ac7305e47a642d1470ddef00,
+        type: 3}
+      propertyPath: m_UiScaleMode
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 2096943739564997387, guid: 9df8cfc4ac7305e47a642d1470ddef00,
         type: 3}
       propertyPath: m_FirstSelected
       value: 
       objectReference: {fileID: 0}
-    - target: {fileID: 7093687308067081280, guid: 9df8cfc4ac7305e47a642d1470ddef00,
+    - target: {fileID: 8650253677608789274, guid: 9df8cfc4ac7305e47a642d1470ddef00,
         type: 3}
-      propertyPath: m_RootOrder
-      value: 8
+      propertyPath: m_IsActive
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9df8cfc4ac7305e47a642d1470ddef00, type: 3}
